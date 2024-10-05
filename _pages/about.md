@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am a first-year PhD at the [University of Michigan EECS](https://ece.engin.umich.edu/), where I was fortunate to be advised by Prof. [Qing Qu](https://qingqu.engin.umich.edu/). Prior to this, I received my bachelor's degree from [Tsinghua University](https://www.au.tsinghua.edu.cn/en/), majoring in automation.
+I am a first-year PhD at the [University of Michigan EECS](https://ece.engin.umich.edu/), where I am fortunate to be advised by Prof. [Qing Qu](https://qingqu.engin.umich.edu/). Prior to this, I received my bachelor's degree from [Tsinghua University](https://www.au.tsinghua.edu.cn/en/), majoring in automation.
 I collaborated with Prof. [Li Yi](https://ericyi.github.io/) and Prof. [Wenkai Lu](https://www.au.tsinghua.edu.cn/en/info/1078/3204.htm).
 
 Research

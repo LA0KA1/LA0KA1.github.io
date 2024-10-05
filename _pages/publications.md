@@ -9,7 +9,7 @@ redirect_from:
 
 <span>&#42;</span> indicates equal contribution
 
-[<b>Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering</b>](https://arxiv.org/abs/2409.02426), Peng Wang, Huijie Zhang, <b>Zekai Zhang</b>, Siyi Chen, Yi Ma, Qing Qu. Preprint.
+[<b>Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering</b>](https://arxiv.org/abs/2409.02426), Peng Wang<span>&#42;</span>, Huijie Zhang<span>&#42;</span>, <b>Zekai Zhang</b>, Siyi Chen, Yi Ma, Qing Qu. Preprint.
 
 [<b>Efficient Compression of Overparameterized Deep Models through Low-Dimensional Learning Dynamics</b>](https://arxiv.org/abs/2311.05061), Soo Min Kwon<span>&#42;</span>, <b>Zekai Zhang<span>&#42;</span></b>, Dogyoon Song, Laura Balzano, Qing Qu <b>AISTATS2024</b>.
 
