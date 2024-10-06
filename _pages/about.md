@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhang Zekai (张泽楷)"
+title: "Zekai Zhang(张泽楷)"
 author_profile: true
 redirect_from: 
   - /about/
