@@ -7,6 +7,7 @@ redirect_from:
   - /publications.html
 ---
 
+
 <span>&#42;</span> indicates equal contribution
 
 [<b>Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering</b>](https://arxiv.org/abs/2409.02426), Peng Wang<span>&#42;</span>, Huijie Zhang<span>&#42;</span>, <b>Zekai Zhang</b>, Siyi Chen, Yi Ma, Qing Qu. Preprint.
@@ -17,7 +18,14 @@ redirect_from:
 
 
 
-
+<!-- ---
+permalink: /publications/
+title: "Publications"
+author_profile: true
+redirect_from: 
+  - /publications/
+  - /publications.html
+--- -->
 
 
 
