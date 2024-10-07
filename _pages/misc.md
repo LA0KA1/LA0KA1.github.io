@@ -7,9 +7,13 @@ redirect_from:
   - /misc.html
 ---
 
-Under construction.
+<!-- Under construction. -->
 
+今天的欢乐将是明天永恒的回忆
 
+<div id="clustrmaps-widget">
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=Z-7P-c__jyKWkEFWv6kpimyIUKQSYn8vWo0XVWtk0gE'></script>
+</div>
 
 
 

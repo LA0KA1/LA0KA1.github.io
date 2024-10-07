@@ -15,14 +15,14 @@ I also collaborated with Prof. [Li Yi](https://ericyi.github.io/) and Prof. [Wen
 
 Research
 ======
-My research centers on understanding and advancing deep neural networks through low-dimensional modeling (and other first principles). Recently I'm interested in diffusion models and multimodal LLMs, as well as their potential applications in scientific domains.
+My research centers on understanding and advancing deep neural networks through optimization, low-dimensional modeling and other first principles. Recently I'm interested in diffusion models and multimodal LLMs, as well as their potential applications in scientific domains.
 
 
 News
 ======
 <ul>
   <li><b>[May 2024]</b> Awarded the MICDE fellowship.</li>
-  <li><b>[September 2023]</b> Awarded National Scholarship of China.</li>
+  <li><b>[September 2023]</b> Awarded the National Scholarship of China.</li>
 </ul>
 
 
