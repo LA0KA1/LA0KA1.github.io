@@ -12,7 +12,7 @@ redirect_from:
 今天的欢乐将是明天永恒的回忆
 
 <div id="clustrmaps-widget">
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=Z-7P-c__jyKWkEFWv6kpimyIUKQSYn8vWo0XVWtk0gE'></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=PkxOa_m9keeNK9BCYU7BJqh8iaLghjKUNdqxzRKn8no&cl=ffffff&w=a"></script>
 </div>
 
 
